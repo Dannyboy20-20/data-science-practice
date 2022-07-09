@@ -1,2 +1,2 @@
-print("first python project")\
+print("first python project")
 #displays file name
